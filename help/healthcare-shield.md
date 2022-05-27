@@ -8,6 +8,7 @@ level: Beginner, Intermediate, Experienced
 doc-type: Event
 kt: 10471
 thumbnail: 343342.jpeg
+hidefromtoc: yes
 ---
 
 # Adobe Real-Time Customer Data Platform and Healthcare Shield
