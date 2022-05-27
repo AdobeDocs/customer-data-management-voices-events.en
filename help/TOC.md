@@ -15,3 +15,4 @@ feature-set: Experience Platform
 + [Data Collaboration in the First-party Data Context](data-collaboration-in-the-first-party-data-context.md)
 + [How Marketing Teams are Improving Data Management Strategies](how-marketing-teams-are-improving-data-management-strategies.md)
 + [Build Superb Experiences with your First-Party Data](build-superb-experiences-with-your-first-party-data.md)
++ [Healthcare Shield](healthcare-shield.md)
